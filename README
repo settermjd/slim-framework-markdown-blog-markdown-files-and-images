@@ -1,0 +1,3 @@
+# README
+
+This is a small project that provides some example/demo Markdown data files with YAML front matter along with accompanying post images for the [SlimPHP Markdown blog project](https://github.com/settermjd/slimphp-markdown-blog). Feel free to use them to get an idea of what the application does. However, don't expect them to be meaningful posts or images. The articles are excerpts from my articles on the Twilio blog.  
